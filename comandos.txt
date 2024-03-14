@@ -1,0 +1,25 @@
+compas es un gestor visual para conectarnos a una db mongo, para verla y manipilarla
+
+DockerCompose
+es una herramnienta que facilita la ejecución de comandos
+
+correr docker
+docker compose: ejecutar el archivo dokcer-compose.yml
+up: lea y monete las instrucciones del archivos .yml
+
+-d: lo haga de forma detach: lo haga de froma desenlazada a la termional
+(pueda cerrarla y siga corriendo)
+
+
+docker compose up -d
+
+
+correr backend
+npm run start:dev
+
+controladores: son los responsables de controlar-escuchar  las peticiones
+
+decorador:canbia una clase a una funcionalidad en particular
+
+
+ejecutar npm i @nestjs/config
